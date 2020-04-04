@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <HorizontalScrollView
+        android:id="@+id/horizontalScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false"
+            android:orientation="horizontal"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/border_image"
+                    android:cropToPadding="true"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/messi_profile"
+                    app:civ_border_color="@color/colorAccent"
+                    app:civ_border_width="1dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/border_image"
+                    android:cropToPadding="true"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/messi_profile"
+                    app:civ_border_color="@color/colorAccent"
+                    app:civ_border_width="1dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/border_image"
+                    android:cropToPadding="true"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/messi_profile"
+                    app:civ_border_color="@color/colorAccent"
+                    app:civ_border_width="1dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/border_image"
+                    android:cropToPadding="true"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/messi_profile"
+                    app:civ_border_color="@color/colorAccent"
+                    app:civ_border_width="1dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/border_image"
+                    android:cropToPadding="true"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/messi_profile"
+                    app:civ_border_color="@color/colorAccent"
+                    app:civ_border_width="1dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/border_image"
+                    android:cropToPadding="true"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/messi_profile"
+                    app:civ_border_color="@color/colorAccent"
+                    app:civ_border_width="1dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/border_image"
+                    android:cropToPadding="true"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/messi_profile"
+                    app:civ_border_color="@color/colorAccent"
+                    app:civ_border_width="1dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/border_image"
+                    android:cropToPadding="true"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/messi_profile"
+                    app:civ_border_color="@color/colorAccent"
+                    app:civ_border_width="1dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/border_image"
+                    android:cropToPadding="true"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/messi_profile"
+                    app:civ_border_color="@color/colorAccent"
+                    app:civ_border_width="1dp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/border_image"
+                    android:cropToPadding="true"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/messi_profile"
+                    app:civ_border_color="@color/colorAccent"
+                    app:civ_border_width="1dp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycle_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
